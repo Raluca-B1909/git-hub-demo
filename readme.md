@@ -2,4 +2,8 @@
 
 Astazi invatam despre GitHub!
 
-Urmeaza comanda git pull
+Comenzi utile din GitHub:
+- git add
+- git commit
+- git push
+- git pull
